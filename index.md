@@ -5,7 +5,7 @@
 Students who have not taken a class before and have no idea how hard or how to succeed in the class can use this this Android app to gain more insight about a class.
 
 ## Instruction
-If you want to download the apk file, you can download the apk file by clicking <a href="app-debug.apk">Download File</a>
+If you want to download the apk file, you can download the apk file by clicking <a href="app-debug.apk">Download File</a>. The minimum requirement for the app is for Android Version 5 and above.
 
 ## START PAGE
 ![alt text](screenshots/start_page.png "Start Page")
