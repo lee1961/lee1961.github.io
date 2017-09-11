@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# DOCUMENTATION
+## EZClassApp
 
-You can use the [editor on GitHub](https://github.com/lee1961/lee1961.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## DESCRIPTION
+Students who have not taken a class before and have no idea how hard or how to succeed in the class can use this this Android app to gain more insight about a class.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## START PAGE
+![alt text](images/start_page.png "Start Page")
+## Login Page
+![alt text](images/login_page.png "The login page")
+## Create an Account Page
+This is where you create an account.
+![alt text](images/create_account_page.png "Create Account Page")
+## Main Page
+This is where after you have logged in or register an account, the this will be the main page where you can search for the classes you want.
+![alt text](images/main_page.png "Main Page where you can search for classes")
+## List of Review Page
+This is where after clicking the class that you are interested in from the main page, you can see the list of reviews sorted by number of upvotes.
+![alt text](images/review_page.png "List of reviews Page")
+## Submit form Review Page
+This is where if you click the floating action button from the list of review page, you can submit a review here.
+![alt text](images/submitform_review_page.png "Page where you submit a review based on the class you chose from the main page")
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lee1961/lee1961.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## CONTACT
+If you would like the apk file, you can contact me at lee1961@purdue.edu
