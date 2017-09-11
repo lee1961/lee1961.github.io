@@ -26,4 +26,4 @@ This is where if you click the floating action button from the list of review pa
 
 
 ## CONTACT
-If you would like the apk file, you can contact me at lee1961@purdue.edu
+If you would have any suggestions or would like to take a look at the code, you can contact me at lee1961@purdue.edu
