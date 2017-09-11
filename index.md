@@ -4,6 +4,9 @@
 ## DESCRIPTION
 Students who have not taken a class before and have no idea how hard or how to succeed in the class can use this this Android app to gain more insight about a class.
 
+## Instruction
+If you want to downloadm, you can download at [](app-debug.apk "apk file")
+
 ## START PAGE
 ![alt text](screenshots/start_page.png "Start Page")
 ## Login Page
